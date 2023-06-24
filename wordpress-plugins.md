@@ -1,0 +1,5 @@
+- WPS Hide Login
+- Advanced Custom Fields
+- WPGraphQL (tem que baixar no site e enviar)
+- WPGraphQL for Advanced Custom Fields (tem que baixar no site e enviar)
+- Editor clássico
