@@ -3,3 +3,4 @@
 - Advanced Custom Fields (pode baixar pelo gerenciador, mas usar o pro enviando)
 - WPGraphQL (tem que baixar no site e enviar)
 - WPGraphQL for Advanced Custom Fields (tem que baixar no site e enviar)
+- Redirection (em Parâmetros de Consulta colocar ignorar todos os parametros)
