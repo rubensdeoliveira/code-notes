@@ -20,7 +20,9 @@ Rodar `pscale connect iope development`
 
 # Passo 6
 
-No .env colocar DATABASE_URL="mysql://root@127.0.0.1:3306/NOME_DO_BANCO"
+No .env adicionar: 
+
+`DATABASE_URL="mysql://root@127.0.0.1:3306/NOME_DO_BANCO"`
 
 > Trocar NOME_DO_BANCO pelo nome do seu banco
 
